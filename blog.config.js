@@ -24,7 +24,7 @@ const BLOG = {
 
   CUSTOM_MENU: process.env.NEXT_PUBLIC_CUSTOM_MENU || false, // 支持Menu 类型，从3.12.0版本起，各主题将逐步支持灵活的二级菜单配置，替代了原来的Page类型，此配置是试验功能、默认关闭。
 
-  AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '货代Symon', // 您的昵称 例如 tangly1024
+  AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '货代SYMON', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '一个普通的货代人🍚', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://lf-symon.com', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '印尼专线, 印尼海运,雅加达清关,印尼清关,印尼海外仓,雅加达海外仓,印尼清关行,雅加达清关行,菲律宾物流,菲律宾专线,菲律宾海外仓,马尼拉海外仓,马尼拉专线,马来西亚海运,吉隆坡清关,广州到菲律宾,', // 网站关键词 英文逗号隔开
